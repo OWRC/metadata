@@ -21,7 +21,7 @@ knit:   (
 #### Description
 
 Characteristic | Description
--------------- | -----------
+-------------------- | -----------
 Summary | The Water Table surface reflects the elevation (in metres-above-sea-level, masl) of the saturated water table.  Two Surfaces are created: the Data Driven Water Table (WT0) and the Enhanced Water Table (WT1).  These surfaces can be used to estimate the direction and gradient of ground water flow in the shallow sediments/rock beneath any area.
 Type | Raster - Gridded on 100m cells.  A 50m cell working resolution was chosen with the final result resampled to a 100m cell final grid
 Geographic Extent | Entire ORMGP Study Area (with a 25km buffer).
