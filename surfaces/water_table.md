@@ -36,18 +36,18 @@ Periodically updated as new wells are added into the ORMGP database.
 
 ### Description (Alternate)
 
-* Type
+* **Type**
     + Raster - Gridded on 100m cells.  A 50m cell working resolution was chosen with the final result resampled to a 100m cell final grid.
-* Geographic Exten
+* **Geographic Extent**
     + Entire ORMGP Study Area (with a 25km buffer).
-* Maintenance Standard
+* **Maintenance Standard**
     + Periodically updated as new wells are added into the ORMGP database.
 
 ### Georeferencing and Accuracy
 
-* Horizontal Datum
+* **Horizontal Datum**
     + North American Datum 1983
-* Vertical Reference
+* **Vertical Reference**
     + Well elevations set to MNR DEM (2006 Version 2, 10m cell resolution) based on *Accuracy*, below
 
 
