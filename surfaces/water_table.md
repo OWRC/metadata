@@ -35,6 +35,8 @@ The Water Table surface reflects the elevation (in metres-above-sea-level, masl)
     + North American Datum 1983
 * **Vertical Reference**
     + Well elevations set to MNR DEM (2006 Version 2, 10m cell resolution) based on *Accuracy*, below
+* **Horizontal Accuracy**
+    + Based on accuracy of well locations - refer to ORMGP Database Manual
 
 ### Data Sources and Restrictions
 
