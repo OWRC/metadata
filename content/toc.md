@@ -18,6 +18,8 @@ knit:   (
 
 ## Table of Contents
 
+#### Surfaces
+
 **[Potential Discharge Areas - Metadata](/metadata/surfaces/potential_discharge.html)**
 
 **[Potentiometric Surface - Metadata](/metadata/surfaces/potentiometric_surface.html)**
