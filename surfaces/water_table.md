@@ -1,7 +1,7 @@
 ---
 title:  "Metadata - Water Table (WT0 and WT1)"
 author: "ormgpmd"
-date:   "20220331"
+date:   "20220927"
 output: html_document
 knit:   (
             function(input_file, encoding) {
@@ -54,7 +54,7 @@ The Water Table surface reflects the elevation (in metres-above-sea-level, masl)
 * **Data Source - Wells**
     + The Water Table was created by interpolating the static water levels
     from all wells (ORMGP database, as of 20210615) where the bottom of the
-    well is less than 20 m deep. Wells up to 40 m deep were incorporated within the Oak Ridges Moraine boundary. It should be noted that the measured static water levels reflect measurements from wells that were drilled in all seasons as well as in wetter and dryer years. So the water table presented here is the average water table. For wells with more than one measurement all water levels are averaged.  Given the dynamic nature of the groundwater system, it should be noted that the actual water table at any given time of year may be on the order of up to 2 or 3 metres higher or lower than reflected in the map.  Note that the creation of the WT0 relies entirely upon this dataset (unless otherwise specified).  The WT1 incorporates all modifications described below.
+    screen is less than 20 m deep. Wells up to 40 m deep were incorporated within the Oak Ridges Moraine boundary. It should be noted that the measured static water levels reflect measurements from wells that were drilled in all seasons as well as in wetter and dryer years. So the water table presented here is the average water table. For wells with more than one measurement all water levels are averaged.  Given the dynamic nature of the groundwater system, it should be noted that the actual water table at any given time of year may be on the order of up to 2 or 3 metres higher or lower than reflected in the map.  Note that the creation of the WT0 relies entirely upon this dataset (unless otherwise specified).  The WT1 incorporates all modifications described below.
 * **Data Source - Water Bodies (Lakes)**
     + Each of Lake Ontario, Lake Simcoe and Georgian Bay were extracted from the 'Ontario Hydrographic Network - Water Bodies' dataset (20110623).  These were converted from polygons to points and assigned a standard elevation (Georgian Bay - 176 masl; Lake Simcoe - 219 masl; Lake Ontario - 74 masl).
 * **Data Source - Rivers**
@@ -80,4 +80,4 @@ The Water Table surface reflects the elevation (in metres-above-sea-level, masl)
 
 
 
-*Last Modified: 2022-09-19*
+*Last Modified: 2022-09-27*
