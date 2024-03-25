@@ -66,7 +66,9 @@ The [Ontario Geological Survey](https://www.ontario.ca/page/ontario-geological-s
     + See source [**metadata**](https://www.arcgis.com/sharing/rest/content/items/cf961d62ee1345c7b191808c9d60a4d7/info/metadata/metadata.xml?format=default&output=html).
 
 * **Vector Overlay**
-    + Vector overlay of agricultural soils map with OGS surficial geology map for the areas under investigation using `AND` operations (this keeps the attributes from both datasets).  (Note that for the OGS surficial map, bedrock areas (both Paleozoic and Precambrian) have been removed.) The field of interest in the OGS surficial geology is the 'group_number'; this has assembled the surficial types into standard numerical categories (e.g. 'bedrock drift complex', 'till', 'ice contact stratified deposits' and etc.).
+    + Vector overlay methodology of CAMC (2009) is applied as follows.
+
+    + Agricultural soils map with OGS surficial geology map for the areas under investigation using `AND` operations (this keeps the attributes from both datasets).  (Note that for the OGS surficial map, bedrock areas (both Paleozoic and Precambrian) have been removed.) The field of interest in the OGS surficial geology is the 'group_number'; this has assembled the surficial types into standard numerical categories (e.g. 'bedrock drift complex', 'till', 'ice contact stratified deposits' and etc.).
      
     + For all the 'group numbers' (i.e. the geologic types) present in the resulting layer, add a presence/absence field (e.g. 'till', 'glacfluv', etc.).  These are then populated appropriately (a '1' value for the particular geologic type, a '0' for the remainder).
 
@@ -102,6 +104,9 @@ The [Ontario Geological Survey](https://www.ontario.ca/page/ontario-geological-s
 
 * **Rasterization**
     + Each of the input datasets (i.e. OGS zone 17, OGS zone 18, and the vector overlay product) were re-projected and rasterized at a 15m resolution.
+
+* **References**
+    + Conservation Authorities Moraine Coalition (CAMC), 2009. Trent Source Water Protection Study, Recharge Study-Draft Report. 33pp.
 
 * **Contact**
     + email (support@owrc.ca)
