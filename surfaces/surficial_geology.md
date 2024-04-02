@@ -108,6 +108,10 @@ The [Ontario Geological Survey](https://www.ontario.ca/page/ontario-geological-s
 * **References**
     + Conservation Authorities Moraine Coalition (CAMC), 2009. Trent Source Water Protection Study, Recharge Study-Draft Report. 33pp.
 
+    + Ontario Geological Survey 2010. Surficial geology of southern Ontario; Ontario Geological Survey, Miscellaneous Release— Data 128 – Revised.
+
+    + Ontario Ministry of Agriculture, Food and Rural Affairs. 2022. Agricultural Resource Inventory - Final.
+
 * **Contact**
     + email (support@owrc.ca)
 

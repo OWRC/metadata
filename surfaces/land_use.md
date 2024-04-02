@@ -99,6 +99,8 @@ The [Southern Ontario Land Resource Information System (SOLRIS) version 3.0](htt
         ```
 
 * **References**
+    + Agriculture and Agri-food Canada, 2013. Data Product Specifications (ISO 19131) rev. A. 31pp.
+    
     + Ministry of Natural Resources and Forestry, 2019. Southern Ontario Land Resource Information System (SOLRIS) Version 3.0: Data Specifications. Science and Research Branch, April 2019.
 
 * **Contact**
