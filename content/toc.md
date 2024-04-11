@@ -46,7 +46,7 @@ knit:   (
 
 The following layers were __*not*__ produced by the ORMGP, rather they are listed here for quick reference.
 
-**[OMNR 2005 DEM - Metadata](/metadata/external/mnr2006dem/LIO%20MNR%20DEM%2010m%20Metadata.pdf)**
+**[OMNR 2006 DEM - Metadata](/metadata/external/mnr2006dem/LIO%20MNR%20DEM%2010m%20Metadata.pdf)**
 
 **[Ontario Provincial DEM - Metadata](/metadata/external/pdem/)**
 
