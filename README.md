@@ -1,8 +1,7 @@
-# metadata (GitHub Repository)
+# ORMGP Metadata
 
-ORMGP Metadata
+**Metadata for ORMGP Published Data Products**
 
-Metadata for ORMGP Published Data Products
 
 Access the metadata master list at https://owrc.github.io/metadata/content/toc.html
 
