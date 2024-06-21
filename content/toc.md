@@ -50,6 +50,8 @@ The following layers were __*not*__ produced by the ORMGP, rather they are liste
 
 **[Ontario Provincial DEM - Metadata](/metadata/external/pdem/)**
 
+**[Ontario Geologic Survey - Map legend](/metadata/external/ogs/surficial_geology_legend_p26.pdf)**
+
 
 
 <br>
