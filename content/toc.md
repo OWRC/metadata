@@ -1,7 +1,7 @@
 ---
-title:  "Metadata - Table of Contents"
-author: "ormgpmd"
-date:   "20220331"
+title:  Metadata
+author: Oak Ridges Moraine Groundwater Program
+date:   2025-03-12
 output: html_document
 knit:   (
             function(input_file, encoding) {
@@ -17,44 +17,47 @@ knit:   (
 ---
 
 
-# Table of Contents
 
 ## Surfaces
 
 
-**[Hydrologically Conditioned DEM - Metadata](/metadata/surfaces/hdem.html)**
+- **[Hydrologically Conditioned DEM - Metadata](/metadata/surfaces/hdem.html)**
 
-**[Land Use _(full coverage)_ - Metadata](/metadata/surfaces/land_use.html)**
+- **[Land Use _(full coverage)_ - Metadata](/metadata/surfaces/land_use.html)**
 
-**[Potential Discharge Areas - Metadata](/metadata/surfaces/potential_discharge.html)**
+- **[Potential Discharge Areas - Metadata](/metadata/surfaces/potential_discharge.html)**
 
-**[Potentiometric Surface - Metadata](/metadata/surfaces/potentiometric_surface.html)**
+- **[Potentiometric Surface - Metadata](/metadata/surfaces/potentiometric_surface.html)**
 
-**[Surficial Geology _(full coverage)_ - Metadata](/metadata/surfaces/surficial_geology.html)**
+- **[Surficial Geology _(full coverage)_ - Metadata](/metadata/surfaces/surficial_geology.html)**
 
-**[Topologically Conditioned Sub-watersheds - Metadata](/metadata/surfaces/topo_sws.html)**
+- **[Topologically Conditioned Sub-watersheds - Metadata](/metadata/surfaces/topo_sws.html)**
 
-**[Topologically Conditioned Watercourses - Metadata](/metadata/surfaces/topo_watercourse.html)**
+- **[Topologically Conditioned Watercourses - Metadata](/metadata/surfaces/topo_watercourse.html)**
 
-**[Water Table - Metadata](/metadata/surfaces/water_table.html)**
+- **[Water Table - Metadata](/metadata/surfaces/water_table.html)**
 
 
 
 <br>
 
-### External
+## External
 
 The following layers were __*not*__ produced by the ORMGP, rather they are listed here for quick reference.
 
-**[OMNR 2006 DEM - Metadata](/metadata/external/mnr2006dem/LIO%20MNR%20DEM%2010m%20Metadata.pdf)**
+### OMNR 2006 DEM
 
-**[Ontario Provincial DEM - Metadata](/metadata/external/pdem/)**
+[Metadata](/metadata/external/mnr2006dem/LIO%20MNR%20DEM%2010m%20Metadata.pdf)
 
-**[Ontario Geologic Survey - Map legend](/metadata/external/ogs/surficial_geology_legend_p26.pdf)**
+### Ontario Provincial DEM
 
-<br>
+[Metadata](/metadata/external/pdem/)
 
-**Provincial LiDAR--High-resolution DEM:**
+### Ontario Geologic Survey
+
+[Map legend](/metadata/external/ogs/surficial_geology_legend_p26.pdf)
+
+### Provincial LiDAR--High-resolution DEM:
 
 #### Sources
 
