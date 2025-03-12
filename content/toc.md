@@ -38,12 +38,13 @@ knit:   (
 - **[Water Table - Metadata](/metadata/surfaces/water_table.html)**
 
 
-
 <br>
 
-## External
+<hr>
 
-The following layers were __*not*__ produced by the ORMGP, rather they are listed here for quick reference.
+## External Sources
+
+> The following layers were __*not*__ produced by the ORMGP, rather they are listed here for quick reference.
 
 ### OMNR 2006 DEM
 
