@@ -50,6 +50,13 @@ knit:   (
 
 > The following layers were __*not*__ produced by the ORMGP, rather they are listed here for quick reference.
 
+### Permit To Take Water (PTTW)
+
+[Metadata](/metadata/external/pttw/Permit_Take_Water_metadata_EN.pdf)
+
+[HTML](https://data.ontario.ca/dataset/permit-to-take-water/resource/de2e14c6-f9d4-4014-b03f-2a0a93d93b14)
+
+
 ### OMNR 2006 DEM
 
 [Metadata](/metadata/external/mnr2006dem/LIO%20MNR%20DEM%2010m%20Metadata.pdf)
