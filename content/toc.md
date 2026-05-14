@@ -38,6 +38,10 @@ knit:   (
 - **[Water Table - Metadata](/metadata/surfaces/water_table.html)**
 
 
+## Database Locations
+
+- **[Metadata - Groundwater Monitoring Locations](/metadata/database/monitoring_gw.html)**
+
 <br>
 
 <hr>
