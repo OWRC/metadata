@@ -57,6 +57,18 @@ knit:   (
 [HTML](https://data.ontario.ca/dataset/permit-to-take-water/resource/de2e14c6-f9d4-4014-b03f-2a0a93d93b14)
 
 
+### Access Environment (MOECP)
+
+[Link to Access Environment online map](https://www.lioapplications.lrc.gov.on.ca/Access_Environment/index.html?viewer=Access_Environment.AE&locale=en-CA)
+
+[Metadata](/metadata/external/pttw/access_environment.html)
+
+Used to acquire:
+- Environmental Activity and Sector Registrations (EASRs)
+
+
+
+
 ### OMNR 2006 DEM
 
 [Metadata](/metadata/external/mnr2006dem/LIO%20MNR%20DEM%2010m%20Metadata.pdf)
