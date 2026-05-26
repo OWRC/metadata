@@ -1,7 +1,7 @@
 ---
 title:  "Metadata - Water Table (WT0 and WT1)"
 author: "ormgpmd"
-date:   "20220927"
+date:   "20260526"
 output: html_document
 knit:   (
             function(input_file, encoding) {
@@ -16,7 +16,7 @@ knit:   (
         )
 ---
 
-## Water Table Surface and Depth to Water Table, WT0 and WT1 - June/July 2021
+## Water Table Surface and Depth to Water Table, WT0 and WT1 - October 2024
 
 ### Description 
 
